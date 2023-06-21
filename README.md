@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently **open to work**
 
-- 🌱 I’m currently learning **React Js**
-
 - 👨‍💻 All of my projects are available at [https://yannguiot.github.io/](https://yannguiot.github.io/)
 
 - 💬 Ask me about **Ruby On Rails / React Js**
