@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yann GUIOT</h1>
 <h3 align="center">A passionate FullStack Developer from France</h3>
 
-- 🔭 I’m currently studing with **The Hacking Project (Bootcamp)**
+- 🔭 I’m currently **open to work**
 
 - 🌱 I’m currently learning **React Js**
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Ruby On Rails / React Js**
 
-- 📫 How to reach me **guiot_yann@hotmail.fr**
+- 📫 How to reach me **guiot_yann@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
