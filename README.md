@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yann GUIOT</h1>
 <h3 align="center">A passionate FullStack Developer from France</h3>
 
-- 🔭 I’m currently **open to work**
+- 🔭 I’m currently **Open to Work**
 
 - 👨‍💻 All of my projects are available at [https://yannguiot.github.io/](https://yannguiot.github.io/)
 
