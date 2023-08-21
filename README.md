@@ -5,7 +5,7 @@
 
 - 👨‍💻 Look my portfolio at **https://yannguiot.github.io/**
 
-- 📫 How to reach me **guiot_yann@protonmail.com**
+- 📫 contact me at **guiot_yann@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
