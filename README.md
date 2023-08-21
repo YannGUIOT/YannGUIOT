@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://yannguiot.github.io/](https://yannguiot.github.io/)
 
-- 💬 Ask me about **React Js**
-
 - 📫 How to reach me **guiot_yann@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
