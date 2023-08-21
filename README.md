@@ -65,8 +65,10 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
   </a>
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/> 
   </a>
-  
+  <a href="https://angular.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/> 
+  </a>
 </p>
