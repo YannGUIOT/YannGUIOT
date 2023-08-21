@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently **Open to Work**
 
-- 👨‍💻 Look my portfolio at **[https://yannguiot.github.io/]**
+- 👨‍💻 Look my portfolio at **https://yannguiot.github.io/**
 
 - 📫 How to reach me **guiot_yann@protonmail.com**
 
