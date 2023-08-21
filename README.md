@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://yannguiot.github.io/](https://yannguiot.github.io/)
 
-- 💬 Ask me about **Ruby On Rails / React Js**
+- 💬 Ask me about **React Js**
 
 - 📫 How to reach me **guiot_yann@protonmail.com**
 
