@@ -90,4 +90,7 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
   </a> 
+  <a href="https://helpx.adobe.com/xd/user-guide.html" target="_blank" rel="noreferrer">          
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="adobeXD" width="40" height="40"/> 
+  </a> 
 </p>
